@@ -1,7 +1,7 @@
 {
     "@context": [
         "https://w3id.org/openbadges/v2",
-        "https://www.blockcerts.org/schema/3.1/context.json"
+        "https://w3id.org/blockcerts/v3.1"
     ],
     "type": "Profile",
     "id": "https://raw.githubusercontent.com/pn-p/blockcerts/master/issuer.json",
