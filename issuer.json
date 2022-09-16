@@ -18,10 +18,21 @@
                 "x": "D_znwOHxa0e8gvVeGLzbxM2XnwrHnUIeJxXRfyjZe5s",
                 "y": "_9xHBg7vjIzhqnyShF0TqXSTDe062kvDR_wUjSqlwMo"
             }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/pn-p/blockcerts/master/issuer.json#ckKpEaMGujwETK7Zpp8Rw6w9gTjmSbR5pZomLdxStq6j",
+            "controller": "https://raw.githubusercontent.com/pn-p/blockcerts/master/issuer.json",
+            "type": "EcdsaSecp256k1VerificationKey2019",
+            "publicKeyJwk": {
+            "kty": "EC",
+            "crv": "secp256k1",
+            "x": "EyJKa1HqDD4D_Pkoc4VZsbe4F-QfnSDCqhTKeQ0qcnQ",
+            "y": "lgLO0crF99N0Fcj6umV5wz1pSGGl2dLQOGnHcvSApIo"
         }
-    ],
+        }    ],
     "assertionMethod": [
-        "https://raw.githubusercontent.com/pn-p/blockcerts/master/issuer.json#secp256k1-jwk-key"
+        "https://raw.githubusercontent.com/pn-p/blockcerts/master/issuer.json#secp256k1-jwk-key",
+        "https://raw.githubusercontent.com/pn-p/blockcerts/master/issuer.json#ckKpEaMGujwETK7Zpp8Rw6w9gTjmSbR5pZomLdxStq6j"
     ],
     "revocationList": "https://www.blockcerts.org/samples/3.0/revocation-list-blockcerts.json",
     "email": "",
