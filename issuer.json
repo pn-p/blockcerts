@@ -29,11 +29,35 @@
                 "x": "EyJKa1HqDD4D_Pkoc4VZsbe4F-QfnSDCqhTKeQ0qcnQ",
                 "y": "lgLO0crF99N0Fcj6umV5wz1pSGGl2dLQOGnHcvSApIo"
             }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/pn-p/blockcerts/master/issuer.json#2546iRHF7dzwm6Dn9G8G5JjkAYQzSqrBa81XmvdLxVBwE",
+            "controller": "https://raw.githubusercontent.com/pn-p/blockcerts/master/issuer.json",
+            "type": "EcdsaSecp256k1VerificationKey2019",
+            "publicKeyJwk": {
+                "kty": "EC",
+                "crv": "secp256k1",
+                "x": "mf_K9vGKDCnQK-BRHHEqehaYXx4IhxeJfhzLrAeVYuE",
+                "y": "L9RAxGmOwZ1rn5Bs-AG_9bdQQQ-RRJQrdcPWMPiei70"
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/pn-p/blockcerts/master/issuer.json#ytsJgCu6N6SBv1rr2QqG4Fj2CThKFHc8SaZihqrRdTKg",
+            "controller": "https://raw.githubusercontent.com/pn-p/blockcerts/master/issuer.json",
+            "type": "EcdsaSecp256k1VerificationKey2019",
+            "publicKeyJwk": {
+                "kty": "EC",
+                "crv": "secp256k1",
+                "x": "TVf4CnQVubwVrXDhHAhH1uYo9o9WN_1_u59iKW-ZOaM",
+                "y": "YXjleMoHJxajQ8KyhLfb_gqZBxTt4WIHDF_vd05aMD8"
+            }
         }
     ],
     "assertionMethod": [
         "https://raw.githubusercontent.com/pn-p/blockcerts/master/issuer.json#secp256k1-jwk-key",
-        "https://raw.githubusercontent.com/pn-p/blockcerts/master/issuer.json#ckKpEaMGujwETK7Zpp8Rw6w9gTjmSbR5pZomLdxStq6j"
+        "https://raw.githubusercontent.com/pn-p/blockcerts/master/issuer.json#ckKpEaMGujwETK7Zpp8Rw6w9gTjmSbR5pZomLdxStq6j",
+        "https://raw.githubusercontent.com/pn-p/blockcerts/master/issuer.json#2546iRHF7dzwm6Dn9G8G5JjkAYQzSqrBa81XmvdLxVBwE",
+        "https://raw.githubusercontent.com/pn-p/blockcerts/master/issuer.json#ytsJgCu6N6SBv1rr2QqG4Fj2CThKFHc8SaZihqrRdTKg"
     ],
     "revocationList": "https://www.blockcerts.org/samples/3.0/revocation-list-blockcerts.json",
     "email": "",
