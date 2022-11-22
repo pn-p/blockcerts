@@ -1,0 +1,7 @@
+{
+    "@context": "https: //w3id.org/openbadges/v2",
+    "id": "https://raw.githubusercontent.com/pn-p/blockcerts/master/signed/revocation-list.json",
+    "type": "RevocationList",
+    "issuer": "https://issuer.dev.hylandcredentials.com/93d02af5-8683-452a-a79c-959deae72495/issuer_profile.json",
+    "revokedAssertions": []
+}
