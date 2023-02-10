@@ -4,5 +4,11 @@
     "type": "RevocationList",
     "issuer": "https://issuer.dev.hylandcredentials.com/93d02af5-8683-452a-a79c-959deae72495/issuer_profile.json",
     "revokedAssertions": [
+        "urn:uuid:1af753e6-fd74-4dfc-8bf4-ca6621598309", 
+        "1af753e6-fd74-4dfc-8bf4-ca6621598309",
+        {
+            "id": "urn:uuid:1af753e6-fd74-4dfc-8bf4-ca6621598309",
+            "revocationReason": "Being unlucky"
+        }
     ]
 }
